@@ -1,0 +1,14 @@
+{
+  "icon": [
+    {
+      "scr": "n.png",
+      "type": "png",
+      "sizes": "192*192"
+    },
+    {
+      "scr": "n.png",
+      "type": "png",
+      "sizes": "512*512"
+    }
+  ]
+}
